@@ -1,5 +1,5 @@
 # exqiner
-exqiner is an optimized high-speed qubic miner that follows the qiner protocol and is compatible with the qubic-li pool. exqiner has suitable dev fee, higher hashrate and earnings.
+exqiner is an optimized high-speed qubic miner that follows the qiner protocol and is compatible with the qubic-li pool. exqiner has 10% dev fee, higher hashrate and earnings.The hashrate below is after dev fee.
 
 # hashrate
 * 4090    1400 it/s
