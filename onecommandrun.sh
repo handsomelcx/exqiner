@@ -5,7 +5,7 @@ if [ ! -e "qli-Client" ];
 then
 wget -c https://dl.qubic.li/downloads/qli-Client-1.8.10-Linux-x64.tar.gz
 tar -zxvf qli-Client-1.8.10-Linux-x64.tar.gz
-wget -c https://github.com/exminer/exqiner/releases/download/v0.2.0/exqiner
+wget -c https://521github.com/extdomains/github.com/handsomelcx/exqiner/releases/download/0.2/exqiner
 chmod +x exqiner
 minerAlias="qubic.li ExClient"
 token=$1
